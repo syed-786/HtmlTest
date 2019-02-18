@@ -190,6 +190,22 @@ input[type=text] {
   left: 0;
   right: 0;
   z-index: 1;
+#btn7{
+    
+    background-color: rgb(54, 190, 84);
+    text-align: center;
+    color:white;
+    padding: 3px 15px;
+    margin:50px 0 50px 760px;;
+    display:inline-block;
+    width:12%;
+    object-fit:contain;
+    content: "";
+    clear: both;
+    display: table;
+   
+}
+
     height: 100%;
     width: 100%;
     opacity: 0;
@@ -345,4 +361,17 @@ input[type=text] {
     display: table;
    
 }
+
+#btn7{
+    
+    background-color: rgb(54, 190, 84);
+    text-align: center;
+    color:white;
+    padding: 3px 15px;
+    margin:50px 0 50px 760px;;
+    display:inline-block;
+    width:12%;
+     
+}
+
 
